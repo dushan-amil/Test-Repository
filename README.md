@@ -1,4 +1,4 @@
 # Test-Repository
 My first test repository
 <br>
-Author-Dushan Amil Senevirathne
+Author-H A D Dusan Senevirathne
